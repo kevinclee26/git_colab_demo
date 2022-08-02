@@ -1,3 +1,6 @@
 # GIT DEMO #
 
 THIS PROJECT IS A DEMONSTRATION OF GIT COLLBORATION
+
+HERE IS THE IMAGE
+![branch](./images/branch.png)
